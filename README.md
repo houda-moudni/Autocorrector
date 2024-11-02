@@ -7,8 +7,6 @@ This repository contains a project on Natural Language Processing (NLP) focused 
 This project explores key concepts in NLP, including:
 1. **Minimum Edit Distance**: An algorithm to calculate the minimum transformations (insertions, deletions, substitutions) required to convert one string into another, optimized for autocorrection tasks.
 2. **Autocorrection**: A spelling corrector using edit distance, language modeling, and error modeling for suggesting probable corrections.
-   
----
 
 ### Minimum Edit Distance
 - implement the edit distance function, integrate backtrace functionality for alignment and apply weighted costs based on QWERTY keyboard adjacency for spelling errors.
@@ -34,8 +32,7 @@ This project explores key concepts in NLP, including:
 - [Peter Norvig's Spell Corrector](https://norvig.com/spell-correct.html)
 
 
----
-
+***
 Done by :
 - **Houda MOUDNI**
 - **Chadi MOUNTASSIR**
